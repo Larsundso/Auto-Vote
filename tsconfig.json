@@ -11,7 +11,7 @@
   "noEmitOnError": true,
   "jsx": "react",
   "typeRoots": [ "node_modules/@types" ],
-  "types": ["node"],
+  "types": ["node", "chrome"],
   "lib": ["ESNext", "WebWorker", "DOM"],
   "allowJs": false,
   "declaration": false,
